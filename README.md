@@ -1,7 +1,11 @@
 # 👋 Olá, eu sou a Estela!
 - 👩🏻‍🎓 Bióloga
 - 🎓 Estudante de Desenvolvimento de Sistemas
-- 💻 Atualmente, aprendendo Python e prontíssima para novas descobertas! 
+- 💻 Tecnologias que estudo atualmente:
+<div style="display: inline_block"><br>
+<img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="HTML" height="40" width="40" 
 - 🚀 Preparando-me para o mercado de tecnologia
 - 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/estela-dibo-soares-23b18818a)
