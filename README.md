@@ -3,4 +3,5 @@
 - 🎓 Estudante de Desenvolvimento de Sistemas
 - 💻 Atualmente, aprendendo Python e pronta para novas descobertas! 
 - 🚀 Preparando-me para o mercado de tecnologia
-- 📫 Contato: esteladsoares@gmail.com
+- 📫 Contato me encontrar:
+[![Gmail](esteladsoares@gmail.com)]
